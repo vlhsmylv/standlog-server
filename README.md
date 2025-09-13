@@ -1,13 +1,14 @@
 # TODO
 
 Endpoint to manage Session
-- [ ] POST: Must accept anonymousId, metadata, 
+- [ ] POST: Must accept anonymousId (string), metadata (json)
 
 Endpoint to post Event
 - It must accept : 
     - [ ] Session ID
     - [ ] Type (string)
-    - [ ] 
+    - [ ] metadata (json)
+    - [ ] data (json)
 
 GET Report Endpoint
 - [ ] It must check for the latest created report:

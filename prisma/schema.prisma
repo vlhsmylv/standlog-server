@@ -30,7 +30,7 @@ model Session {
 
 model Event {
   id        String   @id @default(cuid())
-  sessionId String   @unique
+  sessionId String   
   session   Session  @relation(fields: [sessionId], references: [id])
   type      String // to be defined
   metadata  Json? // JSON object with page title, description, cookies, url, etc. 
