@@ -1,6 +1,5 @@
 import { Request, Response } from "express";
 import prisma from "../prisma";
-import { ok } from "assert/strict";
 
 export interface Event {
   type: "pageview" | "click" | "scroll" | "hover" | string;
@@ -228,7 +227,7 @@ export async function getLatestReport(req: Request, res: Response) {
     const reportDate = latestReport.createdAt;
     const diffInMinutes = (now.getTime() - reportDate.getTime()) / 1000 / 60;
 
-    if (diffInMinutes > 0) {
+    if (diffInMinutes > 15) {
       const newReport = await generateReport();
       return res.status(200).json(newReport);
     } else {
