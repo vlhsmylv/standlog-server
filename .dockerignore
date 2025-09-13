@@ -1,0 +1,17 @@
+# Ignore node modules and logs
+node_modules
+npm-debug.log
+
+# Ignore environment files and sensitive data
+.env
+.git
+.gitignore
+README.md
+Dockerfile
+dist
+
+
+# Ignore editor and OS files
+.vscode
+.idea
+.DS_Store
