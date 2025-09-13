@@ -155,9 +155,51 @@ async function generateReport() {
     })),
   };
 
+  const geminiResponse = await fetch(
+    "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent",
+    {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "x-goog-api-key": process.env.GEMINI_API_KEY as string,
+      },
+      body: JSON.stringify({
+        contents: [
+          {
+            parts: [
+              {
+                text: `You are an AI analytics engine for the website analytics platform StandLog. I will provide you with raw website usage session data (see below). Do not add any commentary. Just give the json. Instructions: Analyze the provided dataset. Output your findings ONLY as a single JSON object in the following format: { "totalPageViews": 15690, "uniqueVisitors": 10000, "conversionRate": "3.4%", "avgSessionTime": "3 min 40 sec", "conversionFunnel": [ {"step": "Landing Page", "visitors": 10000, "percent": "100%"}, {"step": "Product View", "visitors": 7500, "percent": "75%"}, {"step": "Add to Cart", "visitors": 3000, "percent": "30%"}, {"step": "Checkout", "visitors": 1200, "percent": "12%"}, {"step": "Purchase", "visitors": 340, "percent": "3.4%"} ], "topPages": [ {"page": "/", "views": 5678, "bounceRate": "45%", "trend": "up"}, {"page": "/products", "views": 4321, "bounceRate": "38%", "trend": "up"}, {"page": "/about", "views": 2890, "bounceRate": "52%", "trend": "up"}, {"page": "/contact", "views": 1567, "bounceRate": "33%", "trend": "up"}, {"page": "/pricing", "views": 1234, "bounceRate": "41%", "trend": "up"} ] } Personas: 2–4 key user types observed, their behaviors, and approx. session count. Summary: 2–3 sentences with actionable, non-technical insights. Recommendations: Each item is a concrete suggestion for improving conversions, decreasing bounce rates/drop-offs, or guiding the user through the funnel on the dashboard site. Prioritize clear actions referencing the observed session behavior. Session Data: ${reportData}`,
+              },
+            ],
+          },
+        ],
+      }),
+    }
+  );
+
+  console.log(geminiResponse);
+
+  const geminiData = await geminiResponse.json();
+
+  const rawText = geminiData.candidates?.[0]?.content?.parts?.[0]?.text ?? "";
+
+  const jsonMatch = rawText.match(/```json\s*([\s\S]*?)```/);
+
+  let parsedData = null;
+
+  if (jsonMatch && jsonMatch[1]) {
+    try {
+      parsedData = JSON.parse(jsonMatch[1]);
+    } catch (e) {
+      console.error("Invalid JSON:", e);
+    }
+  }
+
+  console.log(parsedData);
+
   const newReport = await prisma.reports.create({
     data: {
-      data: reportData,
+      data: parsedData,
     },
   });
 
