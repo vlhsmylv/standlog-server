@@ -1,5 +1,44 @@
 import { Request, Response } from "express";
 import prisma from "../prisma";
+import { ok } from "assert/strict";
+
+export interface Event {
+  type: "pageview" | "click" | "scroll" | "hover" | string;
+  metadata: {
+    url: string;
+    title: string;
+    timestamp: number;
+    userAgent: string;
+    viewport: {
+      width: number;
+      height: number;
+    };
+    page: {
+      url: string;
+      title: string;
+      referrer?: string;
+    };
+  };
+  data: {
+    sessionId: string;
+    userId?: string;
+    timestamp: number;
+    page: {
+      url: string;
+      title: string;
+      referrer?: string;
+    };
+    device: {
+      type: "desktop" | "mobile" | "tablet" | string;
+      browser: string;
+      language?: string;
+    };
+    viewport: {
+      width: number;
+      height: number;
+    };
+  };
+}
 
 /**
  * Creates a new session record.
@@ -11,7 +50,10 @@ export async function createSession(req: Request, res: Response) {
     const { anonymousId, metadata } = req.body;
 
     if (!anonymousId) {
-      return res.status(400).json({ error: "anonymousId is required" });
+      return res.status(400).json({
+        success: false,
+        error: "anonymousId is required",
+      });
     }
 
     const newSession = await prisma.session.create({
@@ -21,10 +63,17 @@ export async function createSession(req: Request, res: Response) {
       },
     });
 
-    return res.status(201).json(newSession);
+    return res.status(201).json({
+      id: newSession.id,
+      anonymousId: newSession.anonymousId,
+      success: true,
+    });
   } catch (error) {
     console.error("Failed to create session:", error);
-    return res.status(500).json({ error: "Internal server error" });
+    return res.status(500).json({
+      error: "Internal server error",
+      success: false,
+    });
   }
 }
 
@@ -35,10 +84,13 @@ export async function createSession(req: Request, res: Response) {
  */
 export async function logEvent(req: Request, res: Response) {
   try {
-    const { sessionId, type, metadata, data } = req.body;
+    const { sessionId, events } = req.body;
 
-    if (!sessionId || !type) {
-      return res.status(400).json({ error: "sessionId and type are required" });
+    if (!sessionId) {
+      return res.status(400).json({
+        success: false,
+        error: "sessionId and type are required",
+      });
     }
 
     // Check if the session exists
@@ -47,22 +99,30 @@ export async function logEvent(req: Request, res: Response) {
     });
 
     if (!sessionExists) {
-      return res.status(404).json({ error: "Session not found" });
+      return res.status(404).json({
+        success: false,
+        error: "Session not found",
+      });
     }
 
-    const newEvent = await prisma.event.create({
-      data: {
+    const newEvents = await prisma.event.createMany({
+      data: events.map((event: Event) => ({
         sessionId,
-        type,
-        metadata,
-        data,
-      },
+        ...event,
+      })),
     });
 
-    return res.status(201).json(newEvent);
+    return res.status(201).json({
+      success: true,
+      eventsProcessed: newEvents.count,
+      sessionId,
+    });
   } catch (error) {
     console.error("Failed to log event:", error);
-    return res.status(500).json({ error: "Internal server error" });
+    return res.status(500).json({
+      error: "Internal server error",
+      success: false,
+    });
   }
 }
 
@@ -131,6 +191,9 @@ export async function getLatestReport(req: Request, res: Response) {
     }
   } catch (error) {
     console.error("Failed to get report:", error);
-    return res.status(500).json({ error: "Internal server error" });
+    return res.status(500).json({
+      error: "Internal server error",
+      success: false,
+    });
   }
 }
