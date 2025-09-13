@@ -1,8 +1,6 @@
 import express, { Request, Response, NextFunction } from "express";
 import cors from "cors";
 import dotenv from "dotenv";
-import authRoutes from "./routes/auth";
-import projectRoutes from "./routes/projects";
 import collectRoutes from "./routes/session";
 
 dotenv.config();
@@ -14,8 +12,6 @@ app.use(cors());
 app.use(express.json({ limit: "1mb" }));
 
 // Routes
-app.use("/api/auth", authRoutes);
-app.use("/api/projects", projectRoutes);
 app.use("/api/collect", collectRoutes);
 
 // Health check route
