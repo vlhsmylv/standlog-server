@@ -1,5 +1,7 @@
 # TODO
 
+DEPLOY
+
 Endpoint to manage Session
 - [ ] POST: Must accept anonymousId (string), metadata (json)
 
