@@ -1,7 +1,136 @@
 import { Request, Response } from "express";
+import prisma from "../prisma";
 
-export async function createSession(req: Request, res: Response) {}
+/**
+ * Creates a new session record.
+ * @param req - The Express request object containing anonymousId and metadata in the body.
+ * @param res - The Express response object.
+ */
+export async function createSession(req: Request, res: Response) {
+  try {
+    const { anonymousId, metadata } = req.body;
 
-export async function logEvent(req: Request, res: Response) {}
+    if (!anonymousId) {
+      return res.status(400).json({ error: "anonymousId is required" });
+    }
 
-export async function logError(req: Request, res: Response) {}
+    const newSession = await prisma.session.create({
+      data: {
+        anonymousId,
+        metadata,
+      },
+    });
+
+    return res.status(201).json(newSession);
+  } catch (error) {
+    console.error("Failed to create session:", error);
+    return res.status(500).json({ error: "Internal server error" });
+  }
+}
+
+/**
+ * Logs a new event associated with a session.
+ * @param req - The Express request object with sessionId, type, metadata, and data in the body.
+ * @param res - The Express response object.
+ */
+export async function logEvent(req: Request, res: Response) {
+  try {
+    const { sessionId, type, metadata, data } = req.body;
+
+    if (!sessionId || !type) {
+      return res.status(400).json({ error: "sessionId and type are required" });
+    }
+
+    // Check if the session exists
+    const sessionExists = await prisma.session.findUnique({
+      where: { id: sessionId },
+    });
+
+    if (!sessionExists) {
+      return res.status(404).json({ error: "Session not found" });
+    }
+
+    const newEvent = await prisma.event.create({
+      data: {
+        sessionId,
+        type,
+        metadata,
+        data,
+      },
+    });
+
+    return res.status(201).json(newEvent);
+  } catch (error) {
+    console.error("Failed to log event:", error);
+    return res.status(500).json({ error: "Internal server error" });
+  }
+}
+
+/**
+ * Generates a new report by aggregating data from sessions and events.
+ * This is a private helper function.
+ */
+async function generateReport() {
+  const sessions = await prisma.session.findMany({
+    include: {
+      events: true,
+    },
+  });
+
+  const reportData = {
+    totalSessions: sessions.length,
+    sessions: sessions.map((session) => ({
+      id: session.id,
+      anonymousId: session.anonymousId,
+      metadata: session.metadata,
+      totalEvents: session.events.length,
+      eventsByType: session.events.reduce(
+        (acc: { [key: string]: number }, event) => {
+          acc[event.type] = (acc[event.type] || 0) + 1;
+          return acc;
+        },
+        {}
+      ),
+    })),
+  };
+
+  const newReport = await prisma.reports.create({
+    data: {
+      data: reportData,
+    },
+  });
+
+  return newReport;
+}
+
+/**
+ * Endpoint to get the latest report, generating a new one if it's older than 5 minutes.
+ * @param req - The Express request object.
+ * @param res - The Express response object.
+ */
+export async function getLatestReport(req: Request, res: Response) {
+  try {
+    const latestReport = await prisma.reports.findFirst({
+      orderBy: { createdAt: "desc" },
+    });
+
+    if (!latestReport) {
+      const newReport = await generateReport();
+      return res.status(200).json(newReport);
+    }
+
+    const now = new Date();
+    const reportDate = latestReport.createdAt;
+    const diffInMinutes = (now.getTime() - reportDate.getTime()) / 1000 / 60;
+
+    if (diffInMinutes > 5) {
+      const newReport = await generateReport();
+      return res.status(200).json(newReport);
+    } else {
+      return res.status(200).json(latestReport);
+    }
+  } catch (error) {
+    console.error("Failed to get report:", error);
+    return res.status(500).json({ error: "Internal server error" });
+  }
+}

@@ -1,7 +1,7 @@
 import express, { Request, Response, NextFunction } from "express";
 import cors from "cors";
 import dotenv from "dotenv";
-import collectRoutes from "./routes/session";
+import sessionRoutes from "./routes/session";
 
 dotenv.config();
 
@@ -12,7 +12,7 @@ app.use(cors());
 app.use(express.json({ limit: "1mb" }));
 
 // Routes
-app.use("/api/collect", collectRoutes);
+app.use("/api/session", sessionRoutes);
 
 // Health check route
 app.get("/", (req: Request, res: Response) => {
