@@ -34,8 +34,8 @@ RUN npm run build
 RUN npm ci --only=production && npm cache clean --force
 
 # Create non-root user for security
-RUN addgroup -g 1001 -S nodejs
-RUN adduser -S nodejs -u 1001
+RUN groupadd --gid 1001 nodejs
+RUN useradd --uid 1001 --gid nodejs --shell /bin/bash --create-home nodejs
 
 # Change ownership of the app directory
 RUN chown -R nodejs:nodejs /app
