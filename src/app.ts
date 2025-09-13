@@ -12,7 +12,7 @@ app.use(cors());
 app.use(express.json({ limit: "1mb" }));
 
 // Routes
-app.use("/api/session", sessionRoutes);
+app.use("/api", sessionRoutes);
 
 // Health check route
 app.get("/", (req: Request, res: Response) => {

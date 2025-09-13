@@ -143,6 +143,7 @@ async function generateReport() {
       id: session.id,
       anonymousId: session.anonymousId,
       metadata: session.metadata,
+      data: session.events,
       totalEvents: session.events.length,
       eventsByType: session.events.reduce(
         (acc: { [key: string]: number }, event) => {
@@ -183,7 +184,7 @@ export async function getLatestReport(req: Request, res: Response) {
     const reportDate = latestReport.createdAt;
     const diffInMinutes = (now.getTime() - reportDate.getTime()) / 1000 / 60;
 
-    if (diffInMinutes > 5) {
+    if (diffInMinutes > 0) {
       const newReport = await generateReport();
       return res.status(200).json(newReport);
     } else {

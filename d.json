@@ -1,0 +1,4030 @@
+{
+  "id": "cmfie2hh2000011t3a4j8nim8",
+  "data": {
+    "sessions": [
+      {
+        "id": "cmfidmdcm0000mt36iajhvlbg",
+        "data": [
+          {
+            "id": "cmfidmdo10001mt36n71w43tz",
+            "data": {
+              "device": {
+                "type": "desktop",
+                "browser": "Chrome",
+                "language": "en-US",
+                "viewport": {
+                  "width": 1013,
+                  "height": 913
+                }
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774568896
+            },
+            "type": "pageview",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774568896,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:35.474Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmdo10002mt36rgp8zfkt",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 99,
+                "percentage": 5.294117647058823
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774568999
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774568999,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:35.474Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmdo10003mt36q60n9qkj",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 614,
+                "percentage": 32.43528790279979
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774572972
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774572972,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:35.474Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmdo10004mt364g1c3wyk",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1121,
+                "percentage": 59.21817221341785
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774573506
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774573506,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:35.474Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmdo10005mt36rour816f",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "div",
+                "className": "demo-section",
+                "textContent": "📍 Heatmap Visualization\n      \n        \n          Click anywhere in this area to generate heatmap d"
+              },
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774575564,
+              "coordinates": {
+                "x": 693,
+                "y": 489,
+                "pageX": 693,
+                "pageY": 1610
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774575564,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:35.474Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmdo10006mt3616ylntu9",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "p",
+                "className": "",
+                "textContent": "Click anywhere in this area to generate heatmap data!"
+              },
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774576559,
+              "coordinates": {
+                "x": 614,
+                "y": 291,
+                "pageX": 614,
+                "pageY": 1412
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774576559,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:35.474Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmdo20007mt36zhl5zaz3",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1401,
+                "percentage": 70.686175580222
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774577488
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774577488,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:35.474Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmdo20008mt36trdvfr6x",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "div",
+                "className": "metric-row",
+                "textContent": "Total Clicks\n            2"
+              },
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774578005,
+              "coordinates": {
+                "x": 681,
+                "y": 498,
+                "pageX": 681,
+                "pageY": 1899
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774578005,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:35.474Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmdo20009mt36qonq4az7",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1489,
+                "percentage": 73.45831277750369
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774579172
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774579172,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:35.474Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmdo2000amt36mu2449ap",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 2048,
+                "percentage": 100
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774614958
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774614958,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:35.474Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmdo2000bmt36m9aehwwi",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "div",
+                "className": "demo-section",
+                "textContent": "📊 Live Dashboard\n      \n        \n          Real-time Metrics\n          \n            Active Session\n"
+              },
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774615242,
+              "coordinates": {
+                "x": 684,
+                "y": 418,
+                "pageX": 684,
+                "pageY": 2466
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774615242,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:35.474Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmen6000dmt36x6qs3ept",
+            "data": {
+              "device": {
+                "type": "desktop",
+                "browser": "Chrome",
+                "language": "en-US",
+                "viewport": {
+                  "width": 1013,
+                  "height": 913
+                }
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774568896
+            },
+            "type": "pageview",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774568896,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:36.738Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmen6000emt36fs327vcw",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 99,
+                "percentage": 5.294117647058823
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774568999
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774568999,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:36.738Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmen6000fmt36sgl9vii9",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 614,
+                "percentage": 32.43528790279979
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774572972
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774572972,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:36.738Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmen6000gmt36po6acmo9",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1121,
+                "percentage": 59.21817221341785
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774573506
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774573506,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:36.738Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmen6000hmt36i7mz6hzo",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "div",
+                "className": "demo-section",
+                "textContent": "📍 Heatmap Visualization\n      \n        \n          Click anywhere in this area to generate heatmap d"
+              },
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774575564,
+              "coordinates": {
+                "x": 693,
+                "y": 489,
+                "pageX": 693,
+                "pageY": 1610
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774575564,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:36.738Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmen7000imt36bxbn1m6c",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "p",
+                "className": "",
+                "textContent": "Click anywhere in this area to generate heatmap data!"
+              },
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774576559,
+              "coordinates": {
+                "x": 614,
+                "y": 291,
+                "pageX": 614,
+                "pageY": 1412
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774576559,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:36.738Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmen7000jmt360eembv23",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1401,
+                "percentage": 70.686175580222
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774577488
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774577488,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:36.738Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmen7000kmt36we6d6ey8",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "div",
+                "className": "metric-row",
+                "textContent": "Total Clicks\n            2"
+              },
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774578005,
+              "coordinates": {
+                "x": 681,
+                "y": 498,
+                "pageX": 681,
+                "pageY": 1899
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774578005,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:36.738Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmen7000lmt365l0zlbc0",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1489,
+                "percentage": 73.45831277750369
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774579172
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774579172,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:36.738Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmen7000mmt36i5keb8mh",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 2048,
+                "percentage": 100
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774614958
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774614958,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:36.738Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmen7000nmt365yyyly92",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "div",
+                "className": "demo-section",
+                "textContent": "📊 Live Dashboard\n      \n        \n          Real-time Metrics\n          \n            Active Session\n"
+              },
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774615242,
+              "coordinates": {
+                "x": 684,
+                "y": 418,
+                "pageX": 684,
+                "pageY": 2466
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774615242,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:36.738Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmen7000omt36vi284rw2",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1511.5,
+                "percentage": 73.8037109375
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "cmfidmdcm0000mt36iajhvlbg",
+              "timestamp": 1757774615793
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774615793,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:36.738Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmerz000pmt36c0tatbmp",
+            "data": {
+              "device": {
+                "type": "desktop",
+                "browser": "Chrome",
+                "language": "en-US",
+                "viewport": {
+                  "width": 1013,
+                  "height": 913
+                }
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774568896
+            },
+            "type": "pageview",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774568896,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:36.911Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmerz000qmt36s4o0p440",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 99,
+                "percentage": 5.294117647058823
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774568999
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774568999,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:36.911Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmerz000rmt36mqwlphp2",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 614,
+                "percentage": 32.43528790279979
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774572972
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774572972,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:36.911Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmerz000smt364mk3cico",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1121,
+                "percentage": 59.21817221341785
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774573506
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774573506,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:36.911Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmerz000tmt36wiij9nxe",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "div",
+                "className": "demo-section",
+                "textContent": "📍 Heatmap Visualization\n      \n        \n          Click anywhere in this area to generate heatmap d"
+              },
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774575564,
+              "coordinates": {
+                "x": 693,
+                "y": 489,
+                "pageX": 693,
+                "pageY": 1610
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774575564,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:36.911Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmes0000umt36u8u0xjw2",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "p",
+                "className": "",
+                "textContent": "Click anywhere in this area to generate heatmap data!"
+              },
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774576559,
+              "coordinates": {
+                "x": 614,
+                "y": 291,
+                "pageX": 614,
+                "pageY": 1412
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774576559,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:36.911Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmes0000vmt36sgbv9xd1",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1401,
+                "percentage": 70.686175580222
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774577488
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774577488,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:36.911Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmes0000wmt36xz7bwid6",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "div",
+                "className": "metric-row",
+                "textContent": "Total Clicks\n            2"
+              },
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774578005,
+              "coordinates": {
+                "x": 681,
+                "y": 498,
+                "pageX": 681,
+                "pageY": 1899
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774578005,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:36.911Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmes0000xmt36qguncmng",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1489,
+                "percentage": 73.45831277750369
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774579172
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774579172,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:36.911Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmes0000ymt36ymj0bs82",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 2048,
+                "percentage": 100
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774614958
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774614958,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:36.911Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmes0000zmt36pr6y9aay",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "div",
+                "className": "demo-section",
+                "textContent": "📊 Live Dashboard\n      \n        \n          Real-time Metrics\n          \n            Active Session\n"
+              },
+              "sessionId": "session_1757774568890_ppminiofc",
+              "timestamp": 1757774615242,
+              "coordinates": {
+                "x": 684,
+                "y": 418,
+                "pageX": 684,
+                "pageY": 2466
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774615242,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:36.911Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmes00010mt36ofhd4qgp",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1511.5,
+                "percentage": 73.8037109375
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "cmfidmdcm0000mt36iajhvlbg",
+              "timestamp": 1757774615793
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774615793,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:36.911Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          },
+          {
+            "id": "cmfidmes00011mt36siil4hhf",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "div",
+                "className": "metric-row",
+                "textContent": "Total Clicks\n            3"
+              },
+              "sessionId": "cmfidmdcm0000mt36iajhvlbg",
+              "timestamp": 1757774615982,
+              "coordinates": {
+                "x": 684,
+                "y": 413,
+                "pageX": 684,
+                "pageY": 1924
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774615982,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:43:36.911Z",
+            "sessionId": "cmfidmdcm0000mt36iajhvlbg"
+          }
+        ],
+        "metadata": {
+          "os": "macOS",
+          "device": {
+            "type": "desktop",
+            "browser": "Chrome",
+            "language": "en-US",
+            "viewport": {
+              "width": 1013,
+              "height": 913
+            }
+          },
+          "screen": {
+            "width": 1512,
+            "height": 982
+          },
+          "browser": "Chrome",
+          "language": "en-US",
+          "referrer": "",
+          "timezone": "Asia/Baku",
+          "viewport": {
+            "width": 1013,
+            "height": 913
+          },
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+          "initialUrl": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+          "initialTitle": "StandLog Analytics - MVP Demo"
+        },
+        "anonymousId": "user_1757774531644_8urlehgke",
+        "totalEvents": 36,
+        "eventsByType": {
+          "click": 13,
+          "scroll": 20,
+          "pageview": 3
+        }
+      },
+      {
+        "id": "cmfidpn6o0013mt36qvit8ez5",
+        "data": [
+          {
+            "id": "cmfidpne30014mt36fmujv5lo",
+            "data": {
+              "device": {
+                "type": "desktop",
+                "browser": "Chrome",
+                "language": "en-US",
+                "viewport": {
+                  "width": 1013,
+                  "height": 913
+                }
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774718786_1uwg50kxe",
+              "timestamp": 1757774718800
+            },
+            "type": "pageview",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774718800,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:08.044Z",
+            "sessionId": "cmfidpn6o0013mt36qvit8ez5"
+          },
+          {
+            "id": "cmfidpne30015mt36ywgm7gpk",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 87,
+                "percentage": 4.652406417112299
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774718786_1uwg50kxe",
+              "timestamp": 1757774766119
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774766119,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:08.044Z",
+            "sessionId": "cmfidpn6o0013mt36qvit8ez5"
+          },
+          {
+            "id": "cmfidpne40016mt3648q9txcf",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1219,
+                "percentage": 65.18716577540107
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774718786_1uwg50kxe",
+              "timestamp": 1757774766576
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774766576,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:08.044Z",
+            "sessionId": "cmfidpn6o0013mt36qvit8ez5"
+          },
+          {
+            "id": "cmfidpne40017mt36skb4zxge",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "div",
+                "className": "demo-section",
+                "textContent": "📍 Heatmap Visualization\n      \n        \n          Click anywhere in this area to generate heatmap d"
+              },
+              "sessionId": "session_1757774718786_1uwg50kxe",
+              "timestamp": 1757774766813,
+              "coordinates": {
+                "x": 802,
+                "y": 441,
+                "pageX": 802,
+                "pageY": 1660
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774766813,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:08.044Z",
+            "sessionId": "cmfidpn6o0013mt36qvit8ez5"
+          },
+          {
+            "id": "cmfidpne40018mt367bfwggbz",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1380,
+                "percentage": 72.0626631853786
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774718786_1uwg50kxe",
+              "timestamp": 1757774767653
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774767653,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:08.044Z",
+            "sessionId": "cmfidpn6o0013mt36qvit8ez5"
+          },
+          {
+            "id": "cmfidpnob0019mt36j71js06m",
+            "data": {
+              "device": {
+                "type": "desktop",
+                "browser": "Chrome",
+                "language": "en-US",
+                "viewport": {
+                  "width": 1013,
+                  "height": 913
+                }
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774718786_1uwg50kxe",
+              "timestamp": 1757774718800
+            },
+            "type": "pageview",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774718800,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:08.412Z",
+            "sessionId": "cmfidpn6o0013mt36qvit8ez5"
+          },
+          {
+            "id": "cmfidpnoc001amt36fnpobemo",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 87,
+                "percentage": 4.652406417112299
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774718786_1uwg50kxe",
+              "timestamp": 1757774766119
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774766119,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:08.412Z",
+            "sessionId": "cmfidpn6o0013mt36qvit8ez5"
+          },
+          {
+            "id": "cmfidpnoc001bmt3682cq8mhy",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1219,
+                "percentage": 65.18716577540107
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774718786_1uwg50kxe",
+              "timestamp": 1757774766576
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774766576,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:08.412Z",
+            "sessionId": "cmfidpn6o0013mt36qvit8ez5"
+          },
+          {
+            "id": "cmfidpnoc001cmt3611ru0auk",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "div",
+                "className": "demo-section",
+                "textContent": "📍 Heatmap Visualization\n      \n        \n          Click anywhere in this area to generate heatmap d"
+              },
+              "sessionId": "session_1757774718786_1uwg50kxe",
+              "timestamp": 1757774766813,
+              "coordinates": {
+                "x": 802,
+                "y": 441,
+                "pageX": 802,
+                "pageY": 1660
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774766813,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:08.412Z",
+            "sessionId": "cmfidpn6o0013mt36qvit8ez5"
+          },
+          {
+            "id": "cmfidpnoc001dmt360feifsan",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1380,
+                "percentage": 72.0626631853786
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757774718786_1uwg50kxe",
+              "timestamp": 1757774767653
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774767653,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:08.412Z",
+            "sessionId": "cmfidpn6o0013mt36qvit8ez5"
+          },
+          {
+            "id": "cmfidpnoc001emt36og5udmlm",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1503,
+                "percentage": 76.68367346938776
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "cmfidpn6o0013mt36qvit8ez5",
+              "timestamp": 1757774768236
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774768236,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:08.412Z",
+            "sessionId": "cmfidpn6o0013mt36qvit8ez5"
+          },
+          {
+            "id": "cmfidps7q001fmt369gjojf3o",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1689,
+                "percentage": 90.32085561497325
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "cmfidpn6o0013mt36qvit8ez5",
+              "timestamp": 1757774770282
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774770282,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:14.294Z",
+            "sessionId": "cmfidpn6o0013mt36qvit8ez5"
+          },
+          {
+            "id": "cmfidps7q001gmt36zu5rv7hf",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "h4",
+                "className": "",
+                "textContent": "📈 Recent Activity"
+              },
+              "sessionId": "cmfidpn6o0013mt36qvit8ez5",
+              "timestamp": 1757774770825,
+              "coordinates": {
+                "x": 795,
+                "y": 462,
+                "pageX": 795,
+                "pageY": 2151
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774770825,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:14.294Z",
+            "sessionId": "cmfidpn6o0013mt36qvit8ez5"
+          },
+          {
+            "id": "cmfidps7q001hmt369cc34b80",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 386,
+                "percentage": 20.39091389329107
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "cmfidpn6o0013mt36qvit8ez5",
+              "timestamp": 1757774771915
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774771915,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:14.294Z",
+            "sessionId": "cmfidpn6o0013mt36qvit8ez5"
+          },
+          {
+            "id": "cmfidps7q001imt360oi9g96v",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "div",
+                "className": "feature",
+                "textContent": "👻 Invisible Tracking\n        Zero-config setup"
+              },
+              "sessionId": "cmfidpn6o0013mt36qvit8ez5",
+              "timestamp": 1757774772367,
+              "coordinates": {
+                "x": 794,
+                "y": 344,
+                "pageX": 794,
+                "pageY": 730
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774772367,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:14.294Z",
+            "sessionId": "cmfidpn6o0013mt36qvit8ez5"
+          },
+          {
+            "id": "cmfidps7r001jmt36uoqtpyif",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 42,
+                "percentage": 2.168301497160558
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "cmfidpn6o0013mt36qvit8ez5",
+              "timestamp": 1757774774197
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774774197,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:14.294Z",
+            "sessionId": "cmfidpn6o0013mt36qvit8ez5"
+          },
+          {
+            "id": "cmfidpslv001kmt36dtt2mbpq",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1689,
+                "percentage": 90.32085561497325
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "cmfidpn6o0013mt36qvit8ez5",
+              "timestamp": 1757774770282
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774770282,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:14.803Z",
+            "sessionId": "cmfidpn6o0013mt36qvit8ez5"
+          },
+          {
+            "id": "cmfidpslv001lmt36zifotvk5",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "h4",
+                "className": "",
+                "textContent": "📈 Recent Activity"
+              },
+              "sessionId": "cmfidpn6o0013mt36qvit8ez5",
+              "timestamp": 1757774770825,
+              "coordinates": {
+                "x": 795,
+                "y": 462,
+                "pageX": 795,
+                "pageY": 2151
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774770825,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:14.803Z",
+            "sessionId": "cmfidpn6o0013mt36qvit8ez5"
+          },
+          {
+            "id": "cmfidpslv001mmt36loogr48t",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 386,
+                "percentage": 20.39091389329107
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "cmfidpn6o0013mt36qvit8ez5",
+              "timestamp": 1757774771915
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774771915,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:14.803Z",
+            "sessionId": "cmfidpn6o0013mt36qvit8ez5"
+          },
+          {
+            "id": "cmfidpslv001nmt36wefy7p8a",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "div",
+                "className": "feature",
+                "textContent": "👻 Invisible Tracking\n        Zero-config setup"
+              },
+              "sessionId": "cmfidpn6o0013mt36qvit8ez5",
+              "timestamp": 1757774772367,
+              "coordinates": {
+                "x": 794,
+                "y": 344,
+                "pageX": 794,
+                "pageY": 730
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774772367,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:14.803Z",
+            "sessionId": "cmfidpn6o0013mt36qvit8ez5"
+          },
+          {
+            "id": "cmfidpslv001omt36gga0cxa4",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 42,
+                "percentage": 2.168301497160558
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "cmfidpn6o0013mt36qvit8ez5",
+              "timestamp": 1757774774197
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774774197,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:14.803Z",
+            "sessionId": "cmfidpn6o0013mt36qvit8ez5"
+          },
+          {
+            "id": "cmfidpslv001pmt36bdbyonj7",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "div",
+                "className": "feature",
+                "textContent": "👥 User Personas\n        Automatic segmentation"
+              },
+              "sessionId": "cmfidpn6o0013mt36qvit8ez5",
+              "timestamp": 1757774774370,
+              "coordinates": {
+                "x": 784,
+                "y": 464,
+                "pageX": 784,
+                "pageY": 506
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774774370,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:14.803Z",
+            "sessionId": "cmfidpn6o0013mt36qvit8ez5"
+          }
+        ],
+        "metadata": {
+          "os": "macOS",
+          "device": {
+            "type": "desktop",
+            "browser": "Chrome",
+            "language": "en-US",
+            "viewport": {
+              "width": 1013,
+              "height": 913
+            }
+          },
+          "screen": {
+            "width": 1512,
+            "height": 982
+          },
+          "browser": "Chrome",
+          "language": "en-US",
+          "referrer": "",
+          "timezone": "Asia/Baku",
+          "viewport": {
+            "width": 1013,
+            "height": 913
+          },
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+          "initialUrl": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+          "initialTitle": "StandLog Analytics - MVP Demo"
+        },
+        "anonymousId": "user_1757774261693_nni76iwv8",
+        "totalEvents": 22,
+        "eventsByType": {
+          "click": 7,
+          "scroll": 13,
+          "pageview": 2
+        }
+      },
+      {
+        "id": "cmfidq1h4001qmt36u8e7bhpq",
+        "data": [
+          {
+            "id": "cmfidq1ot001rmt36xaof0l69",
+            "data": {
+              "device": {
+                "type": "desktop",
+                "browser": "Chrome",
+                "language": "en-US",
+                "viewport": {
+                  "width": 1512,
+                  "height": 913
+                }
+              },
+              "userId": "user_1757774781676_1ud4up087",
+              "sessionId": "session_1757774781675_chs0l1p5h",
+              "timestamp": 1757774781677
+            },
+            "type": "pageview",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774781677,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:26.573Z",
+            "sessionId": "cmfidq1h4001qmt36u8e7bhpq"
+          },
+          {
+            "id": "cmfidq1ot001smt36tljc9y8b",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1723.5,
+                "percentage": 100.0290191526408
+              },
+              "userId": "user_1757774781676_1ud4up087",
+              "sessionId": "session_1757774781675_chs0l1p5h",
+              "timestamp": 1757774782889
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774782889,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:26.573Z",
+            "sessionId": "cmfidq1h4001qmt36u8e7bhpq"
+          },
+          {
+            "id": "cmfidq1ot001tmt36noqeuno4",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1760.5,
+                "percentage": 94.14438502673796
+              },
+              "userId": "user_1757774781676_1ud4up087",
+              "sessionId": "session_1757774781675_chs0l1p5h",
+              "timestamp": 1757774783632
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774783632,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:26.573Z",
+            "sessionId": "cmfidq1h4001qmt36u8e7bhpq"
+          },
+          {
+            "id": "cmfidq1ot001umt36ygflr93o",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1915.5,
+                "percentage": 100.0261096605744
+              },
+              "userId": "user_1757774781676_1ud4up087",
+              "sessionId": "session_1757774781675_chs0l1p5h",
+              "timestamp": 1757774786106
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774786106,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:26.573Z",
+            "sessionId": "cmfidq1h4001qmt36u8e7bhpq"
+          },
+          {
+            "id": "cmfidq1ou001vmt36b3c2vcho",
+            "data": {
+              "userId": "user_1757774781676_1ud4up087",
+              "element": {
+                "id": "",
+                "tagName": "body",
+                "className": "",
+                "textContent": "🚀 StandLog Analytics MVP\n      \n        Interactive heatmaps, funnels, personas, real-time dashboar"
+              },
+              "sessionId": "session_1757774781675_chs0l1p5h",
+              "timestamp": 1757774786208,
+              "coordinates": {
+                "x": 785,
+                "y": 621,
+                "pageX": 785,
+                "pageY": 2537
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774786208,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:26.573Z",
+            "sessionId": "cmfidq1h4001qmt36u8e7bhpq"
+          },
+          {
+            "id": "cmfidq3wl001wmt36ilq15yus",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1354.5,
+                "percentage": 72.43315508021391
+              },
+              "userId": "user_1757774781676_1ud4up087",
+              "sessionId": "cmfidq1h4001qmt36u8e7bhpq",
+              "timestamp": 1757774787916
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774787916,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:29.446Z",
+            "sessionId": "cmfidq1h4001qmt36u8e7bhpq"
+          },
+          {
+            "id": "cmfidq3wl001xmt368jzirtzv",
+            "data": {
+              "userId": "user_1757774781676_1ud4up087",
+              "element": {
+                "id": "",
+                "tagName": "div",
+                "className": "metric-row",
+                "textContent": "Scroll Events\n            3"
+              },
+              "sessionId": "cmfidq1h4001qmt36u8e7bhpq",
+              "timestamp": 1757774788075,
+              "coordinates": {
+                "x": 826,
+                "y": 591,
+                "pageX": 826,
+                "pageY": 1946
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774788075,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:29.446Z",
+            "sessionId": "cmfidq1h4001qmt36u8e7bhpq"
+          },
+          {
+            "id": "cmfidq3wm001ymt36747rbqaz",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 253.5,
+                "percentage": 13.39144215530903
+              },
+              "userId": "user_1757774781676_1ud4up087",
+              "sessionId": "cmfidq1h4001qmt36u8e7bhpq",
+              "timestamp": 1757774788788
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774788788,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:29.446Z",
+            "sessionId": "cmfidq1h4001qmt36u8e7bhpq"
+          },
+          {
+            "id": "cmfidq3wm001zmt36zl3k4zet",
+            "data": {
+              "userId": "user_1757774781676_1ud4up087",
+              "element": {
+                "id": "",
+                "tagName": "h2",
+                "className": "",
+                "textContent": "🎯 Try the Features"
+              },
+              "sessionId": "cmfidq1h4001qmt36u8e7bhpq",
+              "timestamp": 1757774788841,
+              "coordinates": {
+                "x": 826,
+                "y": 591,
+                "pageX": 826,
+                "pageY": 845
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774788841,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:29.446Z",
+            "sessionId": "cmfidq1h4001qmt36u8e7bhpq"
+          },
+          {
+            "id": "cmfidq3wm0020mt364q72sqlp",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 0,
+                "percentage": 0
+              },
+              "userId": "user_1757774781676_1ud4up087",
+              "sessionId": "cmfidq1h4001qmt36u8e7bhpq",
+              "timestamp": 1757774789340
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1013,
+                "height": 913
+              },
+              "timestamp": 1757774789340,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:46:29.446Z",
+            "sessionId": "cmfidq1h4001qmt36u8e7bhpq"
+          }
+        ],
+        "metadata": {
+          "os": "macOS",
+          "device": {
+            "type": "desktop",
+            "browser": "Chrome",
+            "language": "en-US",
+            "viewport": {
+              "width": 1013,
+              "height": 913
+            }
+          },
+          "screen": {
+            "width": 1512,
+            "height": 982
+          },
+          "browser": "Chrome",
+          "language": "en-US",
+          "referrer": "",
+          "timezone": "Asia/Baku",
+          "viewport": {
+            "width": 1013,
+            "height": 913
+          },
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+          "initialUrl": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+          "initialTitle": "StandLog Analytics - MVP Demo"
+        },
+        "anonymousId": "user_1757774781677_qoe2eu0bp",
+        "totalEvents": 10,
+        "eventsByType": {
+          "click": 3,
+          "scroll": 6,
+          "pageview": 1
+        }
+      },
+      {
+        "id": "cmfidqxc10021mt360sab7isa",
+        "data": [
+          {
+            "id": "cmfidqxh30022mt36yjun08r3",
+            "data": {
+              "device": {
+                "type": "desktop",
+                "browser": "Chrome",
+                "language": "en-US",
+                "viewport": {
+                  "width": 1512,
+                  "height": 857
+                }
+              },
+              "userId": "user_1757774818599_amrwzm09n",
+              "sessionId": "session_1757774818594_gx3ratcil",
+              "timestamp": 1757774818599
+            },
+            "type": "pageview",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1070,
+                "height": 857
+              },
+              "timestamp": 1757774818599,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:47:07.767Z",
+            "sessionId": "cmfidqxc10021mt360sab7isa"
+          },
+          {
+            "id": "cmfidqxh30023mt36id91do2a",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1119,
+                "percentage": 62.90050590219224
+              },
+              "userId": "user_1757774818599_amrwzm09n",
+              "sessionId": "session_1757774818594_gx3ratcil",
+              "timestamp": 1757774825153
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1070,
+                "height": 857
+              },
+              "timestamp": 1757774825153,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:47:07.767Z",
+            "sessionId": "cmfidqxc10021mt360sab7isa"
+          },
+          {
+            "id": "cmfidqxh30024mt36eo7v508s",
+            "data": {
+              "userId": "user_1757774818599_amrwzm09n",
+              "element": {
+                "id": "",
+                "tagName": "div",
+                "className": "demo-section",
+                "textContent": "📍 Heatmap Visualization\n      \n        \n          Click anywhere in this area to generate heatmap d"
+              },
+              "sessionId": "session_1757774818594_gx3ratcil",
+              "timestamp": 1757774825759,
+              "coordinates": {
+                "x": 845,
+                "y": 482,
+                "pageX": 845,
+                "pageY": 1601
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1070,
+                "height": 857
+              },
+              "timestamp": 1757774825759,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:47:07.767Z",
+            "sessionId": "cmfidqxc10021mt360sab7isa"
+          },
+          {
+            "id": "cmfidqxh30025mt36pm4r5v5i",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1709,
+                "percentage": 90.23231256599789
+              },
+              "userId": "user_1757774818599_amrwzm09n",
+              "sessionId": "session_1757774818594_gx3ratcil",
+              "timestamp": 1757774827360
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1070,
+                "height": 857
+              },
+              "timestamp": 1757774827360,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:47:07.767Z",
+            "sessionId": "cmfidqxc10021mt360sab7isa"
+          },
+          {
+            "id": "cmfidqxh30026mt36b3hlaa1m",
+            "data": {
+              "userId": "user_1757774818599_amrwzm09n",
+              "element": {
+                "id": "",
+                "tagName": "div",
+                "className": "dashboard-grid",
+                "textContent": "Real-time Metrics\n          \n            Active Session\n            Active\n          \n          \n   "
+              },
+              "sessionId": "session_1757774818594_gx3ratcil",
+              "timestamp": 1757774827497,
+              "coordinates": {
+                "x": 911,
+                "y": 474,
+                "pageX": 911,
+                "pageY": 2183
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1070,
+                "height": 857
+              },
+              "timestamp": 1757774827497,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:47:07.767Z",
+            "sessionId": "cmfidqxc10021mt360sab7isa"
+          }
+        ],
+        "metadata": {
+          "os": "macOS",
+          "device": {
+            "type": "desktop",
+            "browser": "Chrome",
+            "language": "en-US",
+            "viewport": {
+              "width": 1070,
+              "height": 857
+            }
+          },
+          "screen": {
+            "width": 1512,
+            "height": 982
+          },
+          "browser": "Chrome",
+          "language": "en-US",
+          "referrer": "",
+          "timezone": "Asia/Baku",
+          "viewport": {
+            "width": 1070,
+            "height": 857
+          },
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+          "initialUrl": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+          "initialTitle": "StandLog Analytics - MVP Demo"
+        },
+        "anonymousId": "user_1757774818599_lclgen80x",
+        "totalEvents": 5,
+        "eventsByType": {
+          "click": 2,
+          "scroll": 2,
+          "pageview": 1
+        }
+      },
+      {
+        "id": "cmfie0t230002zq0rdde8gqyp",
+        "data": [
+          {
+            "id": "cmfie0tgo0004zq0rdx11urhl",
+            "data": {
+              "device": {
+                "type": "desktop",
+                "browser": "Chrome",
+                "language": "en-US",
+                "viewport": {
+                  "width": 1472,
+                  "height": 788
+                }
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757775283292_5ls2nklbl",
+              "timestamp": 1757775283313
+            },
+            "type": "pageview",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775283313,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:49.128Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0tgo0005zq0rjm1ol90c",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 563,
+                "percentage": 30.46536796536797
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757775283292_5ls2nklbl",
+              "timestamp": 1757775286382
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775286382,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:49.128Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0tgo0006zq0r581gl4gv",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 703,
+                "percentage": 37.57349011223944
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757775283292_5ls2nklbl",
+              "timestamp": 1757775287302
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775287302,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:49.128Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0yt1000xzq0rt9pe7fne",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1963.5,
+                "percentage": 100.0254712175242
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "cmfie0t230002zq0rdde8gqyp",
+              "timestamp": 1757775295960
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775295960,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:56.053Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0tgo0007zq0rh5ni9qbx",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "div",
+                "className": "demo-section",
+                "textContent": "📍 Heatmap Visualization\n      \n        \n          Click anywhere in this area to generate heatmap d"
+              },
+              "sessionId": "session_1757775283292_5ls2nklbl",
+              "timestamp": 1757775287488,
+              "coordinates": {
+                "x": 781,
+                "y": 453,
+                "pageX": 781,
+                "pageY": 1156
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775287488,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:49.128Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0tgo0008zq0r30e8d7oh",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 931,
+                "percentage": 47.96496651210716
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757775283292_5ls2nklbl",
+              "timestamp": 1757775288093
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775288093,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:49.128Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0tgo0009zq0rb3tg6jw7",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 963,
+                "percentage": 47.95816733067729
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757775283292_5ls2nklbl",
+              "timestamp": 1757775288386
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775288386,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:49.128Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0tzu000azq0rt1slfeag",
+            "data": {
+              "device": {
+                "type": "desktop",
+                "browser": "Chrome",
+                "language": "en-US",
+                "viewport": {
+                  "width": 1472,
+                  "height": 788
+                }
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757775283292_5ls2nklbl",
+              "timestamp": 1757775283313
+            },
+            "type": "pageview",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775283313,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:49.818Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0tzu000bzq0r8ij4jpp9",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 563,
+                "percentage": 30.46536796536797
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757775283292_5ls2nklbl",
+              "timestamp": 1757775286382
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775286382,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:49.818Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0tzu000czq0rd2ml0h6a",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 703,
+                "percentage": 37.57349011223944
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757775283292_5ls2nklbl",
+              "timestamp": 1757775287302
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775287302,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:49.818Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0tzu000dzq0r2u4cp62a",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "div",
+                "className": "demo-section",
+                "textContent": "📍 Heatmap Visualization\n      \n        \n          Click anywhere in this area to generate heatmap d"
+              },
+              "sessionId": "session_1757775283292_5ls2nklbl",
+              "timestamp": 1757775287488,
+              "coordinates": {
+                "x": 781,
+                "y": 453,
+                "pageX": 781,
+                "pageY": 1156
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775287488,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:49.818Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0tzu000ezq0r2mquesjh",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 931,
+                "percentage": 47.96496651210716
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757775283292_5ls2nklbl",
+              "timestamp": 1757775288093
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775288093,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:49.818Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0tzu000fzq0rqvra2rod",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 963,
+                "percentage": 47.95816733067729
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757775283292_5ls2nklbl",
+              "timestamp": 1757775288386
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775288386,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:49.818Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0tzu000gzq0re3khts8t",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "button",
+                "className": "btn",
+                "textContent": "Show Click Heatmap"
+              },
+              "sessionId": "cmfie0t230002zq0rdde8gqyp",
+              "timestamp": 1757775288846,
+              "coordinates": {
+                "x": 326,
+                "y": 632,
+                "pageX": 326,
+                "pageY": 1595
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775288846,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:49.818Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0u4m000hzq0rilw2ecid",
+            "data": {
+              "device": {
+                "type": "desktop",
+                "browser": "Chrome",
+                "language": "en-US",
+                "viewport": {
+                  "width": 1472,
+                  "height": 788
+                }
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757775283292_5ls2nklbl",
+              "timestamp": 1757775283313
+            },
+            "type": "pageview",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775283313,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:49.990Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0u4m000izq0r301s1igw",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 563,
+                "percentage": 30.46536796536797
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757775283292_5ls2nklbl",
+              "timestamp": 1757775286382
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775286382,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:49.990Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0u4m000jzq0rjdpskzb4",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 703,
+                "percentage": 37.57349011223944
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757775283292_5ls2nklbl",
+              "timestamp": 1757775287302
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775287302,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:49.990Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0u4m000kzq0r058s5qv6",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "div",
+                "className": "demo-section",
+                "textContent": "📍 Heatmap Visualization\n      \n        \n          Click anywhere in this area to generate heatmap d"
+              },
+              "sessionId": "session_1757775283292_5ls2nklbl",
+              "timestamp": 1757775287488,
+              "coordinates": {
+                "x": 781,
+                "y": 453,
+                "pageX": 781,
+                "pageY": 1156
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775287488,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:49.990Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0u4m000lzq0rnddbdxjw",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 931,
+                "percentage": 47.96496651210716
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757775283292_5ls2nklbl",
+              "timestamp": 1757775288093
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775288093,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:49.990Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0u4m000mzq0ryy91d1pu",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 963,
+                "percentage": 47.95816733067729
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "session_1757775283292_5ls2nklbl",
+              "timestamp": 1757775288386
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775288386,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:49.990Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0u4m000nzq0r18o79jcf",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "button",
+                "className": "btn",
+                "textContent": "Show Click Heatmap"
+              },
+              "sessionId": "cmfie0t230002zq0rdde8gqyp",
+              "timestamp": 1757775288846,
+              "coordinates": {
+                "x": 326,
+                "y": 632,
+                "pageX": 326,
+                "pageY": 1595
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775288846,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:49.990Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0w9h000ozq0rgyjs3uoa",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "p",
+                "className": "",
+                "textContent": "Click anywhere in this area to generate heatmap data!"
+              },
+              "sessionId": "cmfie0t230002zq0rdde8gqyp",
+              "timestamp": 1757775290430,
+              "coordinates": {
+                "x": 803,
+                "y": 427,
+                "pageX": 803,
+                "pageY": 1390
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775290430,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:52.758Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0w9i000pzq0r9yodqpau",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1677,
+                "percentage": 84.31372549019608
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "cmfie0t230002zq0rdde8gqyp",
+              "timestamp": 1757775291094
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775291094,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:52.758Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0w9i000qzq0r4ubohhja",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "div",
+                "className": "dashboard-grid",
+                "textContent": "Real-time Metrics\n          \n            Active Session\n            Active\n          \n          \n   "
+              },
+              "sessionId": "cmfie0t230002zq0rdde8gqyp",
+              "timestamp": 1757775291288,
+              "coordinates": {
+                "x": 803,
+                "y": 427,
+                "pageX": 803,
+                "pageY": 2104
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775291288,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:52.758Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0w9i000rzq0rjrzwwngo",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1770,
+                "percentage": 90.16811003565971
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "cmfie0t230002zq0rdde8gqyp",
+              "timestamp": 1757775291827
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775291827,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:52.758Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0w9i000szq0ruowxhf87",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1897,
+                "percentage": 95.51863041289023
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "cmfie0t230002zq0rdde8gqyp",
+              "timestamp": 1757775292660
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775292660,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:52.758Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0yt1000tzq0ruakp2vxs",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1833.5,
+                "percentage": 100.0272776868522
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "cmfie0t230002zq0rdde8gqyp",
+              "timestamp": 1757775293419
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775293419,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:56.053Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0yt1000uzq0rmhssj02k",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1795.5,
+                "percentage": 97.95417348608838
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "cmfie0t230002zq0rdde8gqyp",
+              "timestamp": 1757775294612
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775294612,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:56.053Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0yt1000vzq0rnu3fgvla",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1833.5,
+                "percentage": 100.0272776868522
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "cmfie0t230002zq0rdde8gqyp",
+              "timestamp": 1757775295160
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775295160,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:56.053Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie0yt1000wzq0rz3czybec",
+            "data": {
+              "scroll": {
+                "x": 0,
+                "y": 1328.5,
+                "percentage": 67.67702496179318
+              },
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "cmfie0t230002zq0rdde8gqyp",
+              "timestamp": 1757775295679
+            },
+            "type": "scroll",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775295679,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:54:56.053Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie16tt000yzq0rlkb1z9zy",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "button",
+                "className": "btn",
+                "textContent": "Track Custom Event"
+              },
+              "sessionId": "cmfie0t230002zq0rdde8gqyp",
+              "timestamp": 1757775301069,
+              "coordinates": {
+                "x": 323,
+                "y": 173,
+                "pageX": 323,
+                "pageY": 1033
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775301069,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:55:06.450Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie16tt000zzq0rkck7cc75",
+            "data": {
+              "name": "custom_demo_event",
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "cmfie0t230002zq0rdde8gqyp",
+              "timestamp": 1757775301070,
+              "properties": {
+                "button": "demo",
+                "timestamp": 1757775301070,
+                "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+              }
+            },
+            "type": "custom",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775301070,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:55:06.450Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie16tt0010zq0rsi36js5s",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "button",
+                "className": "btn",
+                "textContent": "Show Click Heatmap"
+              },
+              "sessionId": "cmfie0t230002zq0rdde8gqyp",
+              "timestamp": 1757775302651,
+              "coordinates": {
+                "x": 312,
+                "y": 725,
+                "pageX": 312,
+                "pageY": 1585
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775302651,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:55:06.450Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie16tt0011zq0r52xqvyxa",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "div",
+                "className": "demo-section",
+                "textContent": "📍 Heatmap Visualization\n      \n        \n          Click anywhere in this area to generate heatmap d"
+              },
+              "sessionId": "cmfie0t230002zq0rdde8gqyp",
+              "timestamp": 1757775305452,
+              "coordinates": {
+                "x": 267,
+                "y": 762,
+                "pageX": 267,
+                "pageY": 1622
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775305452,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:55:06.450Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie16tt0012zq0rb0t1tkqu",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "p",
+                "className": "",
+                "textContent": "Click anywhere in this area to generate heatmap data!"
+              },
+              "sessionId": "cmfie0t230002zq0rdde8gqyp",
+              "timestamp": 1757775306260,
+              "coordinates": {
+                "x": 668,
+                "y": 500,
+                "pageX": 668,
+                "pageY": 1360
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775306260,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:55:06.450Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie175v0013zq0r0of1ssor",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "button",
+                "className": "btn",
+                "textContent": "Track Custom Event"
+              },
+              "sessionId": "cmfie0t230002zq0rdde8gqyp",
+              "timestamp": 1757775301069,
+              "coordinates": {
+                "x": 323,
+                "y": 173,
+                "pageX": 323,
+                "pageY": 1033
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775301069,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:55:06.884Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie175v0014zq0rgl2a49tl",
+            "data": {
+              "name": "custom_demo_event",
+              "userId": "user_1757769089237_cget7pb9e",
+              "sessionId": "cmfie0t230002zq0rdde8gqyp",
+              "timestamp": 1757775301070,
+              "properties": {
+                "button": "demo",
+                "timestamp": 1757775301070,
+                "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+              }
+            },
+            "type": "custom",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775301070,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:55:06.884Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie175v0015zq0rfq04lbdq",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "button",
+                "className": "btn",
+                "textContent": "Show Click Heatmap"
+              },
+              "sessionId": "cmfie0t230002zq0rdde8gqyp",
+              "timestamp": 1757775302651,
+              "coordinates": {
+                "x": 312,
+                "y": 725,
+                "pageX": 312,
+                "pageY": 1585
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775302651,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:55:06.884Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie175v0016zq0rkoe0jxt8",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "div",
+                "className": "demo-section",
+                "textContent": "📍 Heatmap Visualization\n      \n        \n          Click anywhere in this area to generate heatmap d"
+              },
+              "sessionId": "cmfie0t230002zq0rdde8gqyp",
+              "timestamp": 1757775305452,
+              "coordinates": {
+                "x": 267,
+                "y": 762,
+                "pageX": 267,
+                "pageY": 1622
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775305452,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:55:06.884Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          },
+          {
+            "id": "cmfie175v0017zq0rngolgo3p",
+            "data": {
+              "userId": "user_1757769089237_cget7pb9e",
+              "element": {
+                "id": "",
+                "tagName": "p",
+                "className": "",
+                "textContent": "Click anywhere in this area to generate heatmap data!"
+              },
+              "sessionId": "cmfie0t230002zq0rdde8gqyp",
+              "timestamp": 1757775306260,
+              "coordinates": {
+                "x": 668,
+                "y": 500,
+                "pageX": 668,
+                "pageY": 1360
+              }
+            },
+            "type": "click",
+            "metadata": {
+              "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+              "page": {
+                "url": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+                "title": "StandLog Analytics - MVP Demo",
+                "referrer": ""
+              },
+              "title": "StandLog Analytics - MVP Demo",
+              "viewport": {
+                "width": 1472,
+                "height": 788
+              },
+              "timestamp": 1757775306260,
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+            },
+            "createdAt": "2025-09-13T14:55:06.884Z",
+            "sessionId": "cmfie0t230002zq0rdde8gqyp"
+          }
+        ],
+        "metadata": {
+          "os": "macOS",
+          "device": {
+            "type": "desktop",
+            "browser": "Chrome",
+            "language": "en-US",
+            "viewport": {
+              "width": 1472,
+              "height": 788
+            }
+          },
+          "screen": {
+            "width": 1512,
+            "height": 982
+          },
+          "browser": "Chrome",
+          "language": "en-US",
+          "referrer": "",
+          "timezone": "Asia/Baku",
+          "viewport": {
+            "width": 1472,
+            "height": 788
+          },
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+          "initialUrl": "file:///Users/valehismayilov/Developer/hackathon/script/index.html",
+          "initialTitle": "StandLog Analytics - MVP Demo"
+        },
+        "anonymousId": "user_1757775283313_ifuf2r9ln",
+        "totalEvents": 40,
+        "eventsByType": {
+          "click": 15,
+          "custom": 2,
+          "scroll": 20,
+          "pageview": 3
+        }
+      }
+    ],
+    "totalSessions": 5
+  },
+  "createdAt": "2025-09-13T14:56:06.901Z"
+}
