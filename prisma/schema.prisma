@@ -13,54 +13,27 @@ generator client {
   provider = "prisma-client-js"
 }
 
-model User {
-  id         String    @id @default(cuid())
-  email      String    @unique
-  password   String
-  name       String?
-  projects   Project[]
-  createdAt  DateTime  @default(now())
-  updatedAt  DateTime  @updatedAt
-}
-
-model Project {
-  id         String    @id @default(cuid())
-  name       String
-  ownerId    String
-  owner      User      @relation(fields: [ownerId], references: [id])
-  apiKey     String    @unique @default(uuid())
-  sessions   Session[]
-  createdAt  DateTime  @default(now())
-  updatedAt  DateTime  @updatedAt
+model Reports {
+  id        String   @id @default(cuid())
+  data      Json? // Report object
+  createdAt DateTime @default(now())
 }
 
 model Session {
-  id         String    @id @default(cuid())
-  projectId  String
-  project    Project   @relation(fields: [projectId], references: [id])
-  userId     String?
-  device     String?
-  browser    String?
-  os         String?
-  startedAt  DateTime  @default(now())
-  events     Event[]
+  id          String   @id @default(cuid())
+  anonymousId String   @unique
+  metadata    Json? // JSON object with metadata (device, browser, os, etc.)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  events      Event[]
 }
 
 model Event {
-  id         String    @id @default(cuid())
-  sessionId  String
-  session    Session   @relation(fields: [sessionId], references: [id])
-  type       EventType
-  element    String?   // CSS selector or DOM element clicked
-  x          Int?      // X coordinate
-  y          Int?      // Y coordinate
-  scrollY    Int?      // for scroll events
-  createdAt  DateTime  @default(now())
-}
-
-enum EventType {
-  CLICK
-  SCROLL
-  HOVER
-  NAVIGATE
+  id        String   @id @default(cuid())
+  sessionId String   @unique
+  session   Session  @relation(fields: [sessionId], references: [id])
+  type      String // to be defined
+  metadata  Json? // JSON object with page title, description, cookies, url, etc. 
+  data      Json? // JSON object with data (e.g. form data, button clicked, etc.)
+  createdAt DateTime @default(now())
 }
