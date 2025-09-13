@@ -167,9 +167,49 @@ async function generateReport() {
           {
             parts: [
               {
-                text: `You are an AI analytics engine for the website analytics platform StandLog. I will provide you with raw website usage session data (see below). Do not add any commentary. Just give the json. Instructions: Analyze the provided dataset. Output your findings ONLY as a single JSON object in the following format: { "totalPageViews": 15690, "uniqueVisitors": 10000, "conversionRate": "3.4%", "avgSessionTime": "3 min 40 sec", "conversionFunnel": [ {"step": "Landing Page", "visitors": 10000, "percent": "100%"}, {"step": "Product View", "visitors": 7500, "percent": "75%"}, {"step": "Add to Cart", "visitors": 3000, "percent": "30%"}, {"step": "Checkout", "visitors": 1200, "percent": "12%"}, {"step": "Purchase", "visitors": 340, "percent": "3.4%"} ], "topPages": [ {"page": "/", "views": 5678, "bounceRate": "45%", "trend": "up"}, {"page": "/products", "views": 4321, "bounceRate": "38%", "trend": "up"}, {"page": "/about", "views": 2890, "bounceRate": "52%", "trend": "up"}, {"page": "/contact", "views": 1567, "bounceRate": "33%", "trend": "up"}, {"page": "/pricing", "views": 1234, "bounceRate": "41%", "trend": "up"} ] } Personas: 2–4 key user types observed, their behaviors, and approx. session count. Summary: 2–3 sentences with actionable, non-technical insights. Recommendations: Each item is a concrete suggestion for improving conversions, decreasing bounce rates/drop-offs, or guiding the user through the funnel on the dashboard site. Prioritize clear actions referencing the observed session behavior. Session Data: ${JSON.stringify(
-                  reportData
-                )}`,
+                text: `You are an AI analytics engine for the website analytics platform StandLog. 
+I will provide you with raw website usage session data (see below). 
+Do not add any commentary. 
+Output your findings ONLY as a single JSON object in the exact format below.
+
+Format:
+{
+  "totalPageViews": 15690,
+  "uniqueVisitors": 10000,
+  "conversionRate": "3.4%",
+  "avgSessionTime": "3 min 40 sec",
+  "conversionFunnel": [
+    {"step": "Landing Page", "visitors": 10000, "percent": "100%"},
+    {"step": "Product View", "visitors": 7500, "percent": "75%"},
+    {"step": "Add to Cart", "visitors": 3000, "percent": "30%"},
+    {"step": "Checkout", "visitors": 1200, "percent": "12%"},
+    {"step": "Purchase", "visitors": 340, "percent": "3.4%"}
+  ],
+  "topPages": [
+    {"page": "/", "views": 5678, "bounceRate": "45%", "trend": "up"},
+    {"page": "/products", "views": 4321, "bounceRate": "38%", "trend": "up"},
+    {"page": "/about", "views": 2890, "bounceRate": "52%", "trend": "up"},
+    {"page": "/contact", "views": 1567, "bounceRate": "33%", "trend": "up"},
+    {"page": "/pricing", "views": 1234, "bounceRate": "41%", "trend": "up"}
+  ],
+  "personas": [
+    {"persona": "Explorers", "behavior": "Browse many pages but rarely convert", "sessions": 4000},
+    {"persona": "Shoppers", "behavior": "Compare products, add to cart, but often abandon at checkout", "sessions": 2500},
+    {"persona": "Decisive Buyers", "behavior": "Go straight from product page to purchase quickly", "sessions": 600},
+    {"persona": "Information Seekers", "behavior": "Spend time on About/Contact pages, low engagement with products", "sessions": 1900}
+  ],
+  "summary": "Most visitors explore products, but a large drop-off occurs at checkout. High bounce rates on 'About' suggest unclear messaging. Returning users (Shoppers) show intent but need reassurance or incentives.",
+  "recommendations": [
+    "Simplify checkout flow to reduce friction and cart abandonment.",
+    "Add trust signals (reviews, guarantees) on product and checkout pages.",
+    "Optimize the 'About' page to better guide visitors toward products.",
+    "Use targeted offers (e.g., discount pop-ups) for returning 'Shoppers'."
+  ]
+}
+
+Session Data:
+${JSON.stringify(reportData)}
+`,
               },
             ],
           },
