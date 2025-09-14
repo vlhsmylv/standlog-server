@@ -258,21 +258,17 @@ export async function getLatestReport(req: Request, res: Response) {
       orderBy: { createdAt: "desc" },
     });
 
-    if (!latestReport) {
-      const newReport = await generateReport();
-      return res.status(200).json(newReport);
-    }
+    // if (!latestReport) {
+    //   const newReport = await generateReport();
+    //   return res.status(200).json(newReport);
+    // }
 
     const now = new Date();
-    const reportDate = latestReport.createdAt;
-    const diffInMinutes = (now.getTime() - reportDate.getTime()) / 1000 / 60;
+    // const reportDate = latestReport.createdAt;
+    // const diffInMinutes = (now.getTime() - reportDate.getTime()) / 1000 / 60;
 
-    if (diffInMinutes > 15) {
-      const newReport = await generateReport();
-      return res.status(200).json(newReport);
-    } else {
-      return res.status(200).json(latestReport);
-    }
+    // const newReport = await generateReport();
+    return res.status(200).json(latestReport);
   } catch (error) {
     console.error("Failed to get report:", error);
     return res.status(500).json({
